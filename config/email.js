@@ -13,8 +13,8 @@
 module.exports.email = {
  service: "Gmail",
  auth: {
- user: "hayhimanshu009@gmail.com",
- pass: "himanshu@1993"
+ user: "",
+ pass: ""
  },
  templateDir: "views/emailTemplates",
  from: "hayhimanshu009@gmail.com",
